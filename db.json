@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "name": "Solo Sokos Hotel Palace Bridge",
+            "location": "Санкт-Петербург, Россия",
+            "price": "8 990 ₽  / за ночь",
+            "sale": "12 990",
+            "img": "https://thumbs.dreamstime.com/b/hotel-rooms-8146308.jpg",
+            "id": 1
+        },
+        {
+            "name": "Doston Qodirov",
+            "location": "Jizzax viloyati",
+            "price": "20000939",
+            "sale": "12 990",
+            "img": "https://images.pexels.com/photos/2246476/pexels-photo-2246476.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "id": 1
+        },
+        {
+            "name": "Qodirov",
+            "location": "Jizzax viloyati",
+            "price": "20000939",
+            "sale": "12 990",
+            "img": "https://images.pexels.com/photos/2246476/pexels-photo-2246476.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            "id": 1
+        }
+    ]
+}
